@@ -13,8 +13,9 @@
 - BA: Analyse bestehende Literatur
 
 ### MI 22.01
-- FZ: Soliznacht
+- BA: Analyse bestehende Literatur
 - FH: SDB1 Prüfung 10:30-11:30
+- FZ: Soliznacht
 
 ### DO 23.01
 - FZ: Jahresstartesse
@@ -22,6 +23,7 @@
 ### FR 24.01
 - BA: Analyse bestehende Literatur
 - BA: Proposal :: Einleitung & Relevanz
+- FZ: Spieliabee Nicci
 
 ### SA 25.01
 - FZ: Essen Drosselweg
@@ -31,6 +33,7 @@
 ### SO 26.01
 - BA: Proposal :: Einleitung & Relevanz
 - BA: Zielsetzung
+- FZ: AFC/NFC Championship Games 
 
 ## KW05
 ### MO 27.01
