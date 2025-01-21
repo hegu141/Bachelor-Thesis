@@ -11,7 +11,8 @@ KI, User Interface, Demographie
 
 **Problem 1:** Tiefe und immer weiter sinkende Wahlbeteiligung in west. Demokratien
 
-**Problem 2:** Sinkendes Vertrauen in Transparenz und Legitimität von demokratischen Prozessen
+**Problem 2A:** Sinkendes Vertrauen in Transparenz und Legitimität von demokratischen Prozessen
+**Problem 2B:** Die nicht vorhandene Nachvollziehbarkeit und Fehleranfälligkeit der analogen Wahl mindert die Transparenz und Legitimität von Wahlen.
 
 **Problem 3:** Demokratische Prozesse müssen mit dem gesellschaftlichen und technologischen Wandel schritt halten
 
@@ -26,7 +27,7 @@ KI, User Interface, Demographie
 - Die Art und Weise wie der KI gestützte Chatbot implementiert wird, wird nicht untersucht.
 - Mögliche Auswirkungen auf die Akzeptanz, basierend darauf wer das E-Voting (Private/Public) entwickelt, werden nicht untersucht. 
 - Die Bachelorthesis untersucht die aufgestellten Hypothesen in einem Schweizer Kontext.
-- Die Beantwortung der auegestellten Fragen und Hypothesen konzentriert sich auf den Wahlprozess. Der Abstimmungsprozess wird dabei ausgeklammert. 
+- Die Beantwortung der auegestellten Fragen und Hypothesen konzentriert sich auf den WahlprozesS.Der Abstimmungsprozess wird dabei ausgeklammert. 
 
 # Zielsetzung
 **Forschungsfrage:** *Wie beeinflusst die Einführung von E-Voting das Wahlverhalten*

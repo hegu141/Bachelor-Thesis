@@ -1,85 +1,123 @@
-KW04
-MO 20.01
+# Proposal Schedule
+
+## KW04
+### MO 20.01 ✅
 - BA: Einrichtung GIT und Projektstruktur
 - BA: Erarbeitung Zeitplan Proposal
 - BA: Analyse Themeneingabe
 - BA: Analyse bestehende Literatur
 - BA: Proposal :: Einleitung & Relevanz
-DI 21.01
+
+### DI 21.01 ✅
 - BID0353: Kompensationsleistung
-MI 22.01
+- BA: Analyse bestehende Literatur
+
+### MI 22.01
 - FZ: Soliznacht
-- FH: SDB1 Prüfung
-DO 23.01
+- FH: SDB1 Prüfung 10:30-11:30
+
+### DO 23.01
 - FZ: Jahresstartesse
-FR 24.01
+
+### FR 24.01
 - BA: Analyse bestehende Literatur
 - BA: Proposal :: Einleitung & Relevanz
-SA 25.01
+
+### SA 25.01
 - FZ: Essen Drosselweg
-- BA: Zielsetzung
-SO 26.01
+- BA: Proposal :: Einleitung & Relevanz
 - BA: Zielsetzung
 
-KW05
-MO 27.01
+### SO 26.01
+- BA: Proposal :: Einleitung & Relevanz
+- BA: Zielsetzung
+
+## KW05
+### MO 27.01
+- BA: Proposal :: Einleitung & Relevanz fertigstellen
+- BA: Zielsetzung fertigstellen
 - BA: Theoretische Grundlagen
-DI 28.01
+
+### DI 28.01
 - BA: Theoretische Grundlagen
-MI 29.01
+
+### MI 29.01
 - BA: Methodisches Vorgehen / Forschungsdesign
-DO 30.01
+
+### DO 30.01
 - BA: Methodisches Vorgehen / Forschungsdesign
-FR 31.01
+
+### FR 31.01
 - FZ: FHG Konzert
-SA 01.02
-- FZ: Vasili
-SO 02.02
+
+### SA 01.02
 - FZ: Vasili
 
-KW06
-MO 03.02
+### SO 02.02
+- FZ: Vasili
+
+
+## KW06
+### MO 03.02
 - FH: EBBK Kurs
 - BA: Erwartete Resultate
-DI 04.02
+
+### DI 04.02
 - FH: EBBK Kurs
 - BA: Erwartete Resultate
-MI 05.02
+
+### MI 05.02
 - FH: EBBK Kurs
 - BA: Erwartete Resultate
-DO 06.02
+
+### DO 06.02
 - BA: Gliederung
-FR 07.02
+
+### FR 07.02
 - BA: Gliederung
-SA 08.02
+
+### SA 08.02
 - BA: Gliederung
-SO 09.02
+
+### SO 09.02
 - BA: Literatur
 
-KW07
-MO 10.02
+## KW07
+### MO 10.02
 - BA: Literatur
-DI 11.02
+
+### DI 11.02
 - FZ: EGO Zürich
-MI 12.02
+
+### MI 12.02
 - BA: Literatur
-DO 13.02
+
+### DO 13.02
 - BA: Projetplanung
-FR 14.02
+
+### FR 14.02
 - BA: Projetplanung
-SA 15.02
+
+### SA 15.02
 - BA: Projetplanung
-SO 16.02
+
+### SO 16.02
 - FZ: Biathlon
 
-KW08
-MO 17.02
+## KW08
+### MO 17.02
 - BA: Korrekturen und Finish
-DI 18.02
+
+### DI 18.02
 - BA: Korrekturen und Finish
+
 MI 19.02
 - BA: Abgabe Proposal
 
-BA: Bachelor-Thesis
-FZ: Freizeit
-FH: Fachhochschule
+## Glossar
+
+|Abkürzung|Bedeutung|
+|--|----------------|
+|BA|Bachelor-Thesis |
+|FZ|Freizeit        |
+|FH|Fachhochschule  |
