@@ -16,6 +16,8 @@ KI, User Interface, Demographie
 
 **Problem 3:** Demokratische Prozesse müssen mit dem gesellschaftlichen und technologischen Wandel schritt halten
 
+**Problem 4?:** Bisherige E-Voting versuche digitisierten lediglich bestehende Prozesse und haben keinen echten Mehrwert geboten
+
 **Relevanz**
 - Vorreiterrolle in Innovation/Demokratie, wichtig für die Schweiz
 - Weltweite Beispiele für Vertrauensverluste in dem. Prozesse *(Schweiz, Georgien, Moldawien, Rumänien, USA)*
@@ -29,12 +31,15 @@ KI, User Interface, Demographie
 - Die Bachelorthesis untersucht die aufgestellten Hypothesen in einem Schweizer Kontext.
 - Die Beantwortung der auegestellten Fragen und Hypothesen konzentriert sich auf den WahlprozesS.Der Abstimmungsprozess wird dabei ausgeklammert. 
 
+Die Bachelor-Thesis fokussiert sich auf eine benutzerorientierte Heransgehensweise um die Akzeptanz von E-Voting in der Stimmbevölkerung zu evaluieren. Die meisten Argumente dagegen können technisch gelöst werden. Daher geht die Arbeit von einem sicheren und robusten System aus. Analysiert wird eine mögliche Implementation einer Benutzeroberfläche, die mögliche Verbesserungen am Wahlprozess hervorhebt und dem Stimmbürger einen echten Mehrwert bieten gegenüber den herrkömlichen Wahlkanälen.
+
 # Zielsetzung
 **Forschungsfrage:** *Wie beeinflusst die Einführung von E-Voting das Wahlverhalten*
 **Hypothesen:**
 - **(1)** *Die Einführung eines E-Voting Systems führt zu einer erhöhten Wahlbeteiligung.*
 - **(2)** *Die Einführung von E-Voting steigert die Qualität der Wahl und das Vertrauen in die Resultate.* 
 - **(3)** *Die Integration eines KI basierter Chatbots würde die Akzeptanz eines E-Voting Systems erhöhen.*
+- **(4)** *Positive Effekte? werden durch E-Voting nur erziehlt wenn die Systeme Mehrwerte? bieten*
 
 # Theoretische Grundlagen
 ?

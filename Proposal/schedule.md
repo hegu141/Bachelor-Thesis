@@ -12,20 +12,20 @@
 - BID0353: Kompensationsleistung
 - BA: Analyse bestehende Literatur
 
-### MI 22.01
+### MI 22.01 ✅
 - BA: Analyse bestehende Literatur
 - FH: SDB1 Prüfung 10:30-11:30
 - FZ: Soliznacht
 
-### DO 23.01
+### DO 23.01 ✅
 - FZ: Jahresstartesse
 
-### FR 24.01
+### FR 24.01 ✅
 - BA: Analyse bestehende Literatur
 - BA: Proposal :: Einleitung & Relevanz
 - FZ: Spieliabee Nicci
 
-### SA 25.01
+### SA 25.01 ✅
 - FZ: Essen Drosselweg
 - BA: Proposal :: Einleitung & Relevanz
 - BA: Zielsetzung
