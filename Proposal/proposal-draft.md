@@ -18,10 +18,13 @@ KI, User Interface, Demographie
 
 **Problem 4?:** Bisherige E-Voting versuche digitisierten lediglich bestehende Prozesse und haben keinen echten Mehrwert geboten
 
+> Studien suchen, die belegen, dass digitalisierte Prozesse echte Mehrwerte bieten müssen damit sie bestehenden/tradionelle Kanäle ablösen und vermehrt benutzt werden.
+
 **Relevanz**
 - Vorreiterrolle in Innovation/Demokratie, wichtig für die Schweiz
 - Weltweite Beispiele für Vertrauensverluste in dem. Prozesse *(Schweiz, Georgien, Moldawien, Rumänien, USA)*
 - Einflussnahme auf politische Prozesse
+- Es gibt bis jetzt fast keine Forschung (prüfen) die sich mit dem Thema E-Voting und dem zusammenhängenden Mehrwert für die Stimmbürger auseinandersetzt. Die meisten Studien konzentrieren sich auf die Haltung, Vor-, Nachteile, Chancen und Risiken.
 
 **Abgrenzung des Themas**
 - Die möglichen Auswirkungen auf ein Wahlresultat werden nicht untersucht. 
@@ -45,7 +48,7 @@ Die Bachelor-Thesis fokussiert sich auf eine benutzerorientierte Heransgehenswei
 ?
 
 # Methodies Vorgehen / Forschungsdesign
-?
+- "Experimental Online Survey" Trifft das das auf meine Umfrage zu?
 
 # Erwartete Resultate der Arbeit
 ?

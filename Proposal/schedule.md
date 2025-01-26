@@ -30,7 +30,7 @@
 - BA: Proposal :: Einleitung & Relevanz
 - BA: Zielsetzung
 
-### SO 26.01
+### SO 26.01 ✅
 - BA: Proposal :: Einleitung & Relevanz
 - BA: Zielsetzung
 - FZ: AFC/NFC Championship Games 
