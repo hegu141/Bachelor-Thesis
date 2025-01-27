@@ -8,6 +8,8 @@ Digitale Natives weden immer mehr
 - (2) Transparenz, Legitimität, Effizienz, Vertrauen von/in Wahlen
 - (3) Akzeptanz von E-Voting:
 KI, User Interface, Demographie
+- (3) E-Voting Systeme schaffen zu wenig Mehrwert für die Stimmberechtigten
+- (3) reine digitisierung reicht nicht, digitalisierung muss mehrwert bringen > SDG1 modul
 
 **Problem 1:** Tiefe und immer weiter sinkende Wahlbeteiligung in west. Demokratien
 
@@ -25,6 +27,9 @@ KI, User Interface, Demographie
 - Weltweite Beispiele für Vertrauensverluste in dem. Prozesse *(Schweiz, Georgien, Moldawien, Rumänien, USA)*
 - Einflussnahme auf politische Prozesse
 - Es gibt bis jetzt fast keine Forschung (prüfen) die sich mit dem Thema E-Voting und dem zusammenhängenden Mehrwert für die Stimmbürger auseinandersetzt. Die meisten Studien konzentrieren sich auf die Haltung, Vor-, Nachteile, Chancen und Risiken.
+- Globaler Megatrend Digitalisierung und künstliche Intelligenz
+- Problematik von bisherigen Studien entgegenwirken mit Livetesting > realen Mehrwert bieten
+- Es gibt bis jetzt fast keine Forschung (prüfen) die sich mit dem Thema E-Voting und dem zusammenhängenden Mehrwert für die Stimmbürger auseinandersetzt. Die meisten Studien konzentrieren sich auf die Haltung, Vor-, Nachteile, Chancen und Risiken.
 
 **Abgrenzung des Themas**
 - Die möglichen Auswirkungen auf ein Wahlresultat werden nicht untersucht. 
@@ -33,8 +38,6 @@ KI, User Interface, Demographie
 - Mögliche Auswirkungen auf die Akzeptanz, basierend darauf wer das E-Voting (Private/Public) entwickelt, werden nicht untersucht. 
 - Die Bachelorthesis untersucht die aufgestellten Hypothesen in einem Schweizer Kontext.
 - Die Beantwortung der auegestellten Fragen und Hypothesen konzentriert sich auf den WahlprozesS.Der Abstimmungsprozess wird dabei ausgeklammert. 
-
-Die Bachelor-Thesis fokussiert sich auf eine benutzerorientierte Heransgehensweise um die Akzeptanz von E-Voting in der Stimmbevölkerung zu evaluieren. Die meisten Argumente dagegen können technisch gelöst werden. Daher geht die Arbeit von einem sicheren und robusten System aus. Analysiert wird eine mögliche Implementation einer Benutzeroberfläche, die mögliche Verbesserungen am Wahlprozess hervorhebt und dem Stimmbürger einen echten Mehrwert bieten gegenüber den herrkömlichen Wahlkanälen.
 
 # Zielsetzung
 **Forschungsfrage:** *Wie beeinflusst die Einführung von E-Voting das Wahlverhalten*

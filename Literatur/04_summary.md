@@ -22,7 +22,7 @@ https://doi.org/10.5167/uzh-127938
 - Faktoren für Pro und Kontra sind hauptsächlich Alter und Bildungsgrad (S.18)
 
 ## Zitate
-- "A majority of the Swiss electorate are in favour of the introduction of E-Voting. The young especially believe that the electronic ballot should be available throughout the country. It is considered part of the digital lifestel. The digital natives are continuously growing in number - hence the demand for E-Voting SHOULD increase over time" (S.25)
+- "A majority of the Swiss electorate are in favour of the introduction of E-Voting. The young especially believe that the electronic ballot should be available throughout the country. It is considered part of the digital lifestyle. The digital natives are continuously growing in number - hence the demand for E-Voting SHOULD increase over time" (S.25)
 
 ## Eigene Kommentare
 - Der Vorteil von Komfort und Flexibilität sticht heraus. Bei den aktuellen System ist aber fraglich, ob dieser mögliche Vorteil wirklich vollkommen ausgeschöpft wird. Der E-Voting Prozess erscheint doch in den meisten Anwendungsfällen als eher schwer und kompliziert.

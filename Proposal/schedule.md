@@ -38,17 +38,16 @@
 ## KW05
 ### MO 27.01 ✅
 - BA: Proposal :: Einleitung & Relevanz fertigstellen
-- BA: Zielsetzung fertigstellen
-- BA: Theoretische Grundlagen
 
 ### DI 28.01
-- BA: Theoretische Grundlagen
+- BA: Zielsetzung
 
 ### MI 29.01
-- BA: Methodisches Vorgehen / Forschungsdesign
+- BA: Zielsetzung
+- BA: Theoretische Grundlagen
 
 ### DO 30.01
-- BA: Methodisches Vorgehen / Forschungsdesign
+- BA: Theoretische Grundlagen
 
 ### FR 31.01
 - FZ: FHG Konzert
@@ -63,11 +62,11 @@
 ## KW06
 ### MO 03.02
 - FH: EBBK Kurs
-- BA: Erwartete Resultate
+- BA: Methodisches Vorgehen / Forschungsdesign
 
 ### DI 04.02
 - FH: EBBK Kurs
-- BA: Erwartete Resultate
+- BA: Methodisches Vorgehen / Forschungsdesign
 
 ### MI 05.02
 - FH: EBBK Kurs
