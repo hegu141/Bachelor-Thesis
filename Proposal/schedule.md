@@ -36,7 +36,7 @@
 - FZ: AFC/NFC Championship Games 
 
 ## KW05
-### MO 27.01
+### MO 27.01 ✅
 - BA: Proposal :: Einleitung & Relevanz fertigstellen
 - BA: Zielsetzung fertigstellen
 - BA: Theoretische Grundlagen
