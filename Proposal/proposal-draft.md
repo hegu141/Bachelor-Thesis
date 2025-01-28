@@ -43,7 +43,9 @@ KI, User Interface, Demographie
 **Forschungsfrage:** *Wie beeinflusst die Einführung von E-Voting das Wahlverhalten*
 **Hypothesen:**
 - **(1)** *Die Einführung eines E-Voting Systems führt zu einer erhöhten Wahlbeteiligung.*
-- **(2)** *Die Einführung von E-Voting steigert die Qualität der Wahl und das Vertrauen in die Resultate.* 
+- **(1)** *Die Einführung eines digitalisierten Wahlprozesses führt zu einer erhöhten Wahlbeteiligung*
+- **(2)** *Die Einführung von E-Voting steigert die Qualität der Wahl und das Vertrauen in die Resultate.*
+- **(2)** *Die medienbruchfreie Informationsversorung beim E-Voting Prozess steigert die Qualität der Wahl* 
 - **(3)** *Die Integration eines KI basierter Chatbots würde die Akzeptanz eines E-Voting Systems erhöhen.*
 - **(4)** *Positive Effekte? werden durch E-Voting nur erziehlt wenn die Systeme Mehrwerte? bieten*
 
@@ -52,6 +54,7 @@ KI, User Interface, Demographie
 
 # Methodies Vorgehen / Forschungsdesign
 - "Experimental Online Survey" Trifft das das auf meine Umfrage zu?
+- Explorative Studie
 
 # Erwartete Resultate der Arbeit
 ?

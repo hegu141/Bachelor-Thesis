@@ -10,6 +10,7 @@ https://doi.org/10.5167/uzh-127938
 
 ## Zentrale Aussagen
 - Ängste: Möglichkeit von Manipulation und brechen des Wahlgeheimnisses (S.5)
+- knapp 6% der Befragten hatten überhaupt die Möglichkeit online abzustimmen/zu wählen
 - 41% Personen, welche die Möglichkeit hatten, haben gewählt. Entspricht etwa der normalen Wahlbeteiligung (S.6)
 - Knapp 1/3 würde gemäss Angaben mehr wählen (S.6)
 - Studie zeigt, dass die Nachfrage nach einem E-Voting Service doch vorhanden ist. 1/4 sehen es als absolut notwendig an (S.7)

@@ -39,15 +39,15 @@
 ### MO 27.01 ✅
 - BA: Proposal :: Einleitung & Relevanz fertigstellen
 
-### DI 28.01
+### DI 28.01 ✅
 - BA: Zielsetzung
 
 ### MI 29.01
-- BA: Zielsetzung
+- BA: Zielsetzung fertigstellen
 - BA: Theoretische Grundlagen
 
 ### DO 30.01
-- BA: Theoretische Grundlagen
+- FZ: Yoga + Jasmin
 
 ### FR 31.01
 - FZ: FHG Konzert
