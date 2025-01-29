@@ -50,7 +50,6 @@ KI, User Interface, Demographie
 - **(4)** *Positive Effekte? werden durch E-Voting nur erziehlt wenn die Systeme Mehrwerte? bieten*
 
 # Theoretische Grundlagen
-?
 
 # Methodies Vorgehen / Forschungsdesign
 - "Experimental Online Survey" Trifft das das auf meine Umfrage zu?

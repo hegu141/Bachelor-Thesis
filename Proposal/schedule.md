@@ -42,7 +42,7 @@
 ### DI 28.01 ✅
 - BA: Zielsetzung
 
-### MI 29.01
+### MI 29.01 ✅
 - BA: Zielsetzung fertigstellen
 - BA: Theoretische Grundlagen
 
@@ -62,7 +62,7 @@
 ## KW06
 ### MO 03.02
 - FH: EBBK Kurs
-- BA: Methodisches Vorgehen / Forschungsdesign
+- BA: Theoretische Grundlagen
 
 ### DI 04.02
 - FH: EBBK Kurs
