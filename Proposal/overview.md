@@ -26,6 +26,9 @@ Risikobetrachtung, was könnte schiefgehen? Was mache ich in diesem Fall?
 - Literaturanalyse
 - Limitationen
 - Sample (wie komme ich dazu?)
+- Pilotstudie: Führe eine Testumfrage mit einer kleinen Gruppe durch, um die Verständlichkeit der Fragen zu prüfen.
+- Randomisierung: Um Reihenfolgeeffekte zu vermeiden, können die Mock-Ups zufällig zugewiesen werden.
+- Soziodemografische Variablen: Erhebe Alter, Bildung, technologische Vorerfahrung usw., um differenzierte Analysen zu ermöglichen.
 
 # Erwartete Resultate (1 Seite)
 Welche Resultate werden erwartet und in welcher Form?

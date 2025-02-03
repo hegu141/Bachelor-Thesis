@@ -46,46 +46,51 @@
 - BA: Zielsetzung fertigstellen
 - BA: Theoretische Grundlagen
 
-### DO 30.01
+### DO 30.01 ✅
 - FZ: Yoga + Jasmin
 
-### FR 31.01
+### FR 31.01 ✅
 - FZ: FHG Konzert
 
-### SA 01.02
+### SA 01.02 ✅
 - FZ: Vasili
 
-### SO 02.02
+### SO 02.02 ✅
 - FZ: Vasili
 
 
 ## KW06
-### MO 03.02
+### MO 03.02 ✅
 - FH: EBBK Kurs
 - BA: Theoretische Grundlagen
 
 ### DI 04.02
 - FH: EBBK Kurs
-- BA: Methodisches Vorgehen / Forschungsdesign
+- BA: Theoretische Grundlagen fertigstellen
+- BA: Neue Literatur lesen
 
 ### MI 05.02
 - FH: EBBK Kurs
-- BA: Erwartete Resultate
+- FZ: Yoga
 
 ### DO 06.02
-- BA: Gliederung
+- BA: Methodisches Vorgehen / Forschungsdesign
+- BA: Erwartete Resultate
 
 ### FR 07.02
-- BA: Gliederung
+- FZ: Tavlia Session
 
 ### SA 08.02
-- BA: Gliederung
+- BA: Methodisches Vorgehen / Forschungsdesign
+- BA: Erwartete Resultate
 
 ### SO 09.02
+- BA: Gliederung
 - BA: Literatur
 
 ## KW07
 ### MO 10.02
+- BA: Gliederung
 - BA: Literatur
 
 ### DI 11.02
