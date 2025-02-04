@@ -64,24 +64,23 @@
 - FH: EBBK Kurs
 - BA: Theoretische Grundlagen
 
-### DI 04.02
+### DI 04.02 ✅
 - FH: EBBK Kurs
 - BA: Theoretische Grundlagen fertigstellen
 - BA: Neue Literatur lesen
 
 ### MI 05.02
 - FH: EBBK Kurs
+- FH: Hausaufgabe
 - FZ: Yoga
 
 ### DO 06.02
 - BA: Methodisches Vorgehen / Forschungsdesign
-- BA: Erwartete Resultate
 
 ### FR 07.02
 - FZ: Tavlia Session
 
 ### SA 08.02
-- BA: Methodisches Vorgehen / Forschungsdesign
 - BA: Erwartete Resultate
 
 ### SO 09.02

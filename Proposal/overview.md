@@ -17,7 +17,7 @@ Einfache Diskussion der Relevanz der vorgestellten Grundlagen/Literatur für die
 
 # Methodisches Vorgehen / Forschungsdesign (1 Seite)
 Begründete methodische Vorgehensweise, wie will ich operationalisieren
-Weshalb dieses Untersucungsinstrument (Datenerhebung), Auswertverfahren, Stichprobenumfang, Datengewinnung (Machbarkeit/Zugang)
+Weshalb dieses Untersuchungsinstrument (Datenerhebung), Auswertverfahren, Stichprobenumfang, Datengewinnung (Machbarkeit/Zugang)
 Risikobetrachtung, was könnte schiefgehen? Was mache ich in diesem Fall?
 - erklärende Variabeln
 - abhängige Variabeln

@@ -61,17 +61,17 @@ Wahrgenommene Verhaltenskontrolle: "Ich bin sicher, dass ich das E-Voting System
 
 # Fragebogen/Survey
 
-## System Usability Scale (SUS)
+## System Usability Scale (SUS) (UX Akzeptanz des Mockups)
 - Beschreibung: Standardisierter Fragebogen zur schnellen Messung der Benutzerfreundlichkeit digitaler System
 - Anwendung: Beispiel: "Ich finde das System unnötig komplex.“ (umgekehrte Kodierung)"
 - Nutzen für die Arbeit: Durch einen standardisierten Fragebogen kann sichergestellt werden, dass die Antworten auswertbar sind.
 
-## Cognitive Load Theory
+## Cognitive Load Theory (UX Akzeptanz des Mockups)
 - Beschreibung: Bewertet die kognitive Belastung der Nutzer, besonders relevant bei komplexen Entscheidungen.
 - Anwendung: Beispiele: "Ich musste mich stark konzentrieren, um das System zu verstehen." oder "Das System war mental anstrengend."
 - Nutzen für die Arbeit: Wahlen sind heute in analoger Form schon komplex und vor allem kompliziert zum Ausfüllen. Ein System, dass diesen Prozess digital darstellt, sollte die kognitive Last der Benutzer zumindest nicht steigern und im besten Fall senken.
 
-## A/B Testing?
+## A/B Testing? (Methodik)
 - Beschreibung: A/B-Tests (auch bekannt als Split-Tests oder Bucket-Tests) sind eine Methode, bei der zwei Versionen einer Webseite oder einer App miteinander verglichen werden, um festzustellen, welche Version besser abschneidet.
 - Anwendung: Erstellung von zwei Varianten einer Benutzeroberfläche. Beide Varianten werden randomisiert einem Sample zum Testen übergeben und anschliessend bewertet.
 - Nutzen für die Arbeit: Mit dem Einsatz eines A/B Tests kann anhand der Umfrageergebnisse eine fundierte Aussage darüber gemacht werden, wie und ob eine KI Integration die Akzeptanz und das vorhergesagt Verhalten beeinflusst.
