@@ -19,12 +19,27 @@ Einfache Diskussion der Relevanz der vorgestellten Grundlagen/Literatur für die
 Begründete methodische Vorgehensweise, wie will ich operationalisieren
 Weshalb dieses Untersuchungsinstrument (Datenerhebung), Auswertverfahren, Stichprobenumfang, Datengewinnung (Machbarkeit/Zugang)
 Risikobetrachtung, was könnte schiefgehen? Was mache ich in diesem Fall?
-- erklärende Variabeln
-- abhängige Variabeln
-- unabhängige Variabeln
-- Regressions-Analyse
-- Literaturanalyse
+Wie will ich operationalisieren:
+erklärende Variabeln
+abhängige Variabeln
+unabhängige Variabeln
+Regressions-Analyse
+Literaturanalyse
+
+- Untersuchungsinstrument > quantitative Umfrage
+- Auswertverfahren: Regressions-Analyse?
+- Stichprobenumfang: minimum =200 :: schön > 500
+- Datengewinnung: Friends&Family :: Arbeit :: Social Media (Instagram/Reddit) :: Smartvote Newsletter
+
+- Risiko:
+1) Zu kleines Sample
+2) Auswertungen weisen keine Signifikanz auf
+3) Umfragebogen wird zu lang/komplex
+4) Mehrsparchigkeit gewährleisten Umfrage/MockUps
+5) Umsetzung eines klickbaren Mockups im vollen Umfang
+
 - Limitationen
+1) Sample wird nicht repräsentativ sein
 - Sample (wie komme ich dazu?)
 - Pilotstudie: Führe eine Testumfrage mit einer kleinen Gruppe durch, um die Verständlichkeit der Fragen zu prüfen.
 - Randomisierung: Um Reihenfolgeeffekte zu vermeiden, können die Mock-Ups zufällig zugewiesen werden.

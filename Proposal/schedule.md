@@ -68,16 +68,17 @@
 - FH: EBBK Kurs
 - BA: Theoretische Grundlagen fertigstellen
 - BA: Neue Literatur lesen
+- BA: Methodisches Vorgehen / Forschungsdesign
 
-### MI 05.02
+### MI 05.02 ✅
 - FH: EBBK Kurs
 - FH: Hausaufgabe
 - FZ: Yoga
 
-### DO 06.02
+### DO 06.02 ✅
 - BA: Methodisches Vorgehen / Forschungsdesign
 
-### FR 07.02
+### FR 07.02 ✅
 - FZ: Tavlia Session
 
 ### SA 08.02
@@ -89,8 +90,8 @@
 
 ## KW07
 ### MO 10.02
-- BA: Gliederung
-- BA: Literatur
+- BA: Gliederung fertigstellen
+- BA: Literatur fertigstellen
 
 ### DI 11.02
 - FZ: EGO Zürich
