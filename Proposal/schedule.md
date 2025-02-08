@@ -81,7 +81,7 @@
 ### FR 07.02 ✅
 - FZ: Tavlia Session
 
-### SA 08.02
+### SA 08.02 ✅
 - BA: Erwartete Resultate
 
 ### SO 09.02
