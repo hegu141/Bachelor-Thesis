@@ -84,12 +84,13 @@
 ### SA 08.02 ✅
 - BA: Erwartete Resultate
 
-### SO 09.02
+### SO 09.02 ✅
 - BA: Gliederung
 - BA: Literatur
 
 ## KW07
-### MO 10.02
+### MO 10.02 ✅
+- BA: Korrektur Text
 - BA: Gliederung fertigstellen
 - BA: Literatur fertigstellen
 
@@ -118,7 +119,7 @@
 ### DI 18.02
 - BA: Korrekturen und Finish
 
-MI 19.02
+## MI 19.02
 - BA: Abgabe Proposal
 
 ## Glossar
