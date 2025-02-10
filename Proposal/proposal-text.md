@@ -59,9 +59,39 @@ Die Forschungsarbeit liefert drei zentrale Outputs:
 Die Resultate stehen somit in direktem Zusammenhang mit der Zielsetzung der Forschungsarbeit. Die Bestätigung der Hypothesen würde die Erreichbarkeit der angestrebten Verbesserungen durch E-Voting belegen. Im Falle einer Nichtbestätigung der Hypothesen ließe sich jedoch ableiten, welche Faktoren eine Rolle spielen und wo noch Optimierungspotenzial besteht. Die Forschungsfrage "Wie beeinflusst die Einführung von E-Voting das Wahlverhalten?" wird durch folgende methodische Vorgehensweise umfassend beantwortet: Es erfolgt (i) eine Messung der Wahlbeteiligung vor und nach der Einführung des E-Voting-Systems (ii) ein Vergleich zwischen einer Nutzung mit und ohne KI-gestützten Chatbot (iii) die Gewinnung zusätzlicher Erkenntnisse zur wahrgenommenen Qualität (Nützlichkeit, Benutzerfreundlichkeit).
 
 # Gliederung
-?
+
+Einleitung (10% / ca. 1400 Wörter / 4-5 Seiten)
+Hintergrund und Motivation (Einführung in das Thema, Relevanz und Kontext)
+Problemstellung / Forschungsfrage	
+Zielsetzung (Erwartete Ergebnisse)
+Aufbau der Arbeit (Kapitelüberblick)
+
+Theoretische Grundlagen (30% / ca. 4200 Wörter / 12-15 Seiten)
+Begriffsdefinition (zentrale Fachbegriffe erläutern und definieren)
+Stand der Forschung (Überblick über bestehende Literatur und Forschungsergebnisse)
+Relevante Modelle und Theorien (Vorstellung und Beschreibung theoretischer Konzepte)
+
+Methodik (15% / ca. 2100 / 6-8 Seiten)
+Forschungsdesign (Angaben zu der Art und Weise der Untersuchung -> quantitativ)
+Datenerhebungsmethoden (Beschreibung der Datenerhebung -> Umfrage)
+Datenauswertung (Angaben zu der Auswertung)
+
+Ergebnisse (20% / ca. 2800 Wörter / 8-10 Seiten)
+Darstellung der Resultate
+Interpretation (Einordnung und Erläuterung der Ergebnisse) 
+
+Diskussion (15% / ca. 2100 Wörter / 6-8 Seiten) 
+Vergleich der eigenen Ergebnisse mit dem Forschungsstand
+Bedeutung der Ergebnisse für Theorie und Praxis 
+Einschränkungen
+
+Fazit und Ausblick (10% / ca. 1400 Wörter / ca. 4-5 Seiten)
+Zusammenfassung der wichtigsten Erkenntnisse
+Beantwortung der Forschungsfrage
+Ausblick (Hinweis auf weiteren Forschungs- und Entwicklungsbedarf) 
 
 # Literatur
 See [Literature](../Literatur)
 
 # Projektplanung
+See [Timtable](timetable.md)
