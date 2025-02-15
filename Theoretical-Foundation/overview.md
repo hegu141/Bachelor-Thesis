@@ -35,15 +35,27 @@ Oder für die wahrgenommene Benutzerfreundlichkeit, die nach der Einfachheit des
 - Nutzen für die Arbeit:
 Das TAM Modell hilft die Akzeptanz des E-Voting-Systems fundiert zu erfassen und zu analysieren. Besonders relevant ist es, da der Einfluss eines KI-gestützten Chatbots untersuchen werden soll. Hier kann verglichen werden, ob die Integration der KI die wahrgenommene Nützlichkeit und Benutzerfreundlichkeit verbessert.
 
+Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 319–340. https://doi.org/10.2307/249008
+
+(Davis, 1989)
+
 # 07 Unified Theory of Acceptance and Use of Technology (UTAUT) (Akzeptanzfragen)
 - Beschreibung: Dieses Paper führt zur Entwicklung des Unified Theory of Acceptance and Use of Technology (UTAUT). Die Autoren vergleichen acht bestehende Modelle zur Technologieakzeptanz (u.a. TAM, TPB, Innovation Diffusion Theory) und integrieren sie in ein einheitliches Modell. UTAUT identifiziert vier Hauptdimensionen der Technologieakzeptanz (i) Leistungserwartung (ii) Aufwandserwartung (iii) sozialer Einfluss (iv) unterstützende Bedingungen. Mit diesem Modell kann mit circa 70% Genauigkeit erklärt werden, wies sich jemand entscheidet eine Technologie zu verwenden oder nicht.
 - Anwendung: Operationalisiere Dimensionen wie wahrgenommene Nützlichkeit und wahrgenommene Benutzerfreundlichkeit des E-Voting-Systems. TAM2 und TAM3 für den Einbezug von sozialen Einflüssen und wahrgenommenes Vertrauen. Man kann UTAUT verwenden, um die Akzeptanz eines Systems zu Beispielsweise zur Leistungserwartung (Performance Expectancy): "Glauben Sie, dass das E-Voting-System Ihre Wahlentscheidung erleichtert?“
 - Nutzen für die Arbeit: UTAUT bietet ein robustes Framework, um die Akzeptanzfaktoren eines E-Voting-Systems umfassend zu erfassen. Besonders relevant ist der Aspekt des sozialen Einflusses und der unterstützenden Bedingungen, da sie den Einsatz von KI-Chatbots in digitalen Wahlumgebungen direkt betreffen. UTAUT hilft, ob und warum der KI-Chatbot die Akzeptanz steigert.
 
+Venkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User Acceptance of Information Technology: Toward a Unified View. MIS Quarterly, 425–478. https://doi.org/10.2307/30036540
+
+(Venkatesh et al., 2003)
+
 # 09 Technology Acceptance Model (UTAUT2) (Akzeptanzfragen)
 - Beschreibung: Dieses Paper erweitert das ursprüngliche UTAUT-Modell zu UTAUT2, um die Akzeptanz von Technologien im Konsumentenbereich besser zu erklären. UTAUT2 ergänzt das Modell um drei neue Konstrukte: hedonistische Motivation, Kosten-Nutzen-Bewertung, Gewohnheiten.
 - Anwendung: Das UTAUT2 Modell kann genutzt werden um diese zusätzlichen Nutzeraspekte zu erfassen
 - Nutzen für die Arbeit: UTAUT2 erweitert die Analyse um psychologische Faktoren wie Spass an der Nutzung und Gewohnheit, die besonders im Kontext von digitalen Anwendungen mit KI-Integration entscheidend sind. So kann man herausfinden, ob der Chatbot nicht nur die Akzeptanz kurzfristig steigert, sondern auch das Verhalten langfristig beeinflusst. Dies ist besonders relevant, wenn man zukünftige Nutzungstendenzen vorhersagen möchte.
+
+Venkatesh, V., Thong, J. Y. L., & Xu, X. (2012). Consumer Acceptance and use of Information technology: Extending the unified Theory of Acceptance and Use of technology1. MIS Quarterly, 157–178. https://doi.org/10.2307/41410412
+
+(Venkatesh et al., 2012)
 
 # 08 theory of planned behaviour (TPB) (Verhaltensabsichtsfragen)
 - Beschreibung: Die Theory of Planned Behavior (TPB) ist ein psychologisches Modell, das erklärt, wie und warum Menschen bestimmte Verhaltensweisen ausführen. Laut Ajzen wird das Verhalten einer Person durch drei zentrale Faktoren bestimmt (i) Einstellung zum Verhalten: Wie positiv oder negativ eine Person ein bestimmtes Verhalten bewertet (ii) Subjektive Norm: Der wahrgenommene soziale Druck, ob man etwas machen soll oder nicht. (iii) Wahrgenommene Verhaltenskontrolle: Das Ausmass in dem eine Person glaubt, das Verhalten leicht oder schwer ausführen zu können.
@@ -54,22 +66,34 @@ Subjektive Norm: "Meine Familie und Freunde würden es untersützen, wenn ich E-
 Wahrgenommene Verhaltenskontrolle: "Ich bin sicher, dass ich das E-Voting System ohne Hilfe verwenden kann"
 - Nutzen für die Arbeit: TPB kann verwendet werden um das zukünftige Wahlverhalten der Befragten zu messen. Warum Menschen bereit sind es zu verwenden, welche Rolle soziale Einflüsse spielen, wie stark z.b. der KI-Chatbot diese Faktoren beeinflusst.
 
-# 10 Medienbruchtheorie?
+Ajzen, I. (1991). The theory of planned behavior. Organizational Behaviour and Human Decision Processes, 179–211.
+
+(Ajzen, 1991)
+
+# Medienbruchtheorie?
 - Beschreibung: Die Medienbruchtheorie besagt, dass ein "Bruch" in der Mediennutzung entsteht, wenn Nutzer zwischen unterschiedlichen Medienformen wechseln, beispielsweise zwischen analogen und digitalen Systemen. Dieser Bruch kann zu Frustration, Fehlern oder Ineffizienz führen, da Nutzer die Anforderungen und Schnittstellen der verschiedenen Medien nicht immer reibungslos beherrschen.
 - Anwendung: In deiner Arbeit lässt sich die Medienbruchtheorie auf das Wechseln von analogen zu digitalen Wahlprozessen anwenden. Wenn Wähler von traditionellen Abstimmungsverfahren zu einem E-Voting-System übergehen, kann es zu solchen Brüchen kommen, wenn sie mit neuen Technologien, Benutzeroberflächen oder Abläufen nicht vertraut sind. Dies gilt besonders dann, wenn technische Hürden oder Unsicherheiten die Akzeptanz des E-Votings beeinträchtigen.
 - Nutzen für die Arbeit: Die Medienbruchtheorie hilft dir zu verstehen, wie Übergänge zu neuen Technologien (wie E-Voting) die Benutzererfahrung beeinflussen können. Sie liefert wertvolle Einblicke, wie durch einen möglichst nahtlosen Übergang von traditionellen zu digitalen Systemen Akzeptanz und Vertrauen in E-Voting-Systeme gefördert werden können.
 
 # Fragebogen/Survey
 
-## System Usability Scale (SUS) (UX Akzeptanz des Mockups)
+## 10 System Usability Scale (SUS) (UX Akzeptanz des Mockups)
 - Beschreibung: Standardisierter Fragebogen zur schnellen Messung der Benutzerfreundlichkeit digitaler System
 - Anwendung: Beispiel: "Ich finde das System unnötig komplex.“ (umgekehrte Kodierung)"
 - Nutzen für die Arbeit: Durch einen standardisierten Fragebogen kann sichergestellt werden, dass die Antworten auswertbar sind.
+
+Lewis, J. R. (2018). The system usability scale: past, present, and future. International Journal of Human–Computer Interaction. https://doi.org/10.1080/10447318.2018.1455307
+
+(Lewis, 2018)
 
 ## Cognitive Load Theory (UX Akzeptanz des Mockups)
 - Beschreibung: Bewertet die kognitive Belastung der Nutzer, besonders relevant bei komplexen Entscheidungen.
 - Anwendung: Beispiele: "Ich musste mich stark konzentrieren, um das System zu verstehen." oder "Das System war mental anstrengend."
 - Nutzen für die Arbeit: Wahlen sind heute in analoger Form schon komplex und vor allem kompliziert zum Ausfüllen. Ein System, dass diesen Prozess digital darstellt, sollte die kognitive Last der Benutzer zumindest nicht steigern und im besten Fall senken.
+
+Sweller, J., Ayres, P., & Kalyuga, S. (2011). Cognitive Load Theory (Vol. 1). https://doi.org/10.1007/978-1-4419-8126-4
+
+(Sweller et al., 2011)
 
 ## A/B Testing? (Methodik)
 - Beschreibung: A/B-Tests (auch bekannt als Split-Tests oder Bucket-Tests) sind eine Methode, bei der zwei Versionen einer Webseite oder einer App miteinander verglichen werden, um festzustellen, welche Version besser abschneidet.

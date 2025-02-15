@@ -94,22 +94,22 @@
 - BA: Gliederung fertigstellen
 - BA: Literatur fertigstellen
 
-### DI 11.02
+### DI 11.02 ✅
 - FZ: EGO Zürich
 
-### MI 12.02
+### MI 12.02 ✅
 - BA: Literatur
 
-### DO 13.02
+### DO 13.02 ✅
 - BA: Projetplanung
 
-### FR 14.02
+### FR 14.02 ✅
 - BA: Projetplanung
 
-### SA 15.02
+### SA 15.02 ✅
 - BA: Projetplanung
 
-### SO 16.02
+### SO 16.02 ✅
 - FZ: Biathlon
 
 ## KW08
