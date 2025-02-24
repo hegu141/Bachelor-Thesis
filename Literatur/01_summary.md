@@ -1,4 +1,4 @@
-# E-Voting – mögliche Alternative zu  traditionellen Wahlverfahren
+# E-Voting – mögliche Alternative zu traditionellen Wahlverfahren
 
 ### Citation:
 Kind, S., & Bovenschulte, M. (2019). E-Voting – mögliche Alternative zu traditionellen Wahlverfahren. KITopen. https://doi.org/10.5445/ir/1000133911

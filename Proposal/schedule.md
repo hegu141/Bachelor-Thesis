@@ -113,13 +113,13 @@
 - FZ: Biathlon
 
 ## KW08
-### MO 17.02
+### MO 17.02 ✅
 - BA: Korrekturen und Finish
 
-### DI 18.02
+### DI 18.02 ✅
 - BA: Korrekturen und Finish
 
-## MI 19.02
+## MI 19.02 ✅
 - BA: Abgabe Proposal
 
 ## Glossar

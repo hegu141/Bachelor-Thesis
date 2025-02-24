@@ -13,9 +13,10 @@ gantt
         Vorarbeiten                 :12.02.2025, 19d                   
         Erstellung Bachelor Thesis  :crit, 02.03.2025, 81d
         Theoretische Grundlagen     :02.03.2025, 22d
-        Erstellung Umfrage          :crit, 09.03.2025, 22d
+        Erstellung Umfrage          :crit, 09.03.2025, 17d
+        Umfrage Feedback            :crit, milestone, 20.03.2025
         Methodik                    :24.03.2025, 14d
-        Umfrage Laufzeit            :crit, 31.03.2025, 21d
+        Umfrage Laufzeit            :crit, 27.03.2025, 26d
         Einleitung                  :07.04.2025, 7d
         Umfrage Auswerten           :14.04.2025, 10d
         Ergebnisse                  :21.04.2025, 7d
