@@ -10,9 +10,10 @@
 > ChatGPT Client oder statischer Chatbot
 
 - Literaturecherche
-> Literatur für UI/UX Design suchen + lesen > braucht es das?
+> Literatur für UI/UX Design suchen + lesen (DesignPattern) > braucht es das?
 > Bestehende Literatur bewerten + woher stammt sie/wie gefunden
 > mehr Beispiele von bestehenden E-Voting Systemen/Testversuchen. Besten Fall UIs
+> Quellen für die Survey Items zusammentragen
 
 - Beispielstudie studieren
 > https://www.sciencedirect.com/science/article/pii/S0740624X2300103X
