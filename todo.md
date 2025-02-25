@@ -5,15 +5,14 @@
 > 20.03 Umfrage an Jan Fivaz
 
 - Technische Machbarkeit
-> Figma? KI-Chatbot Integration?
-> Mobile/Desktop Responsiveness?
+> Figma? KI-Chatbot Integration? > Dev Mode (paid plan)
+> Mobile/Desktop Responsiveness? > Mobile only > Swiss E-Voting App
+> ChatGPT Client oder statischer Chatbot
 
 - Literaturecherche
-> APA7 Zitierungsstil
-> Zotero > sources vervollständigen // fixen
-> Literatur fertiglesen
-> Literatur für UI/UX Design suchen + lesen
+> Literatur für UI/UX Design suchen + lesen > braucht es das?
 > Bestehende Literatur bewerten + woher stammt sie/wie gefunden
+> mehr Beispiele von bestehenden E-Voting Systemen/Testversuchen. Besten Fall UIs
 
 - Beispielstudie studieren
 > https://www.sciencedirect.com/science/article/pii/S0740624X2300103X
