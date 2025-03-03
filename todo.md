@@ -24,12 +24,16 @@
 - Definition User Experience
 - Wieso bringt gute User Experience die Leute dazu eine Technologie zu benutzen?
 - Wahlbeteiligung vs. Share des Wahlkanals (Anteil an E-Voting) (Vergleich Einführung Brief vs Urne)
+- User Centric Design bringt die Leute zum System
+
+## Feedback Kolloqium
+- Titel anpassen > User Experience sollte irgendwie vorkommen
+- E-ID als Faktor? wie?
+- Definition Qualität, was ist gemeint? Gerne auch Hypothese weglassen
+- Beispiel Wahl in Deutschland (Snap Election/kurze Zeit) > viele haben den Brief nicht gekriegt
+
 
 ## Beispielstudie studieren
 - https://www.sciencedirect.com/science/article/pii/S0740624X2300103X
-
-## Kolloquium 1 vorbereiten
-- Präsentation vorbereiten
-- 2 Fragen vorbereiten
 
 ## Workshop Slides bewerten
