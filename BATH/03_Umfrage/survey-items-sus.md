@@ -26,13 +26,16 @@ user experience questionnaire (UEQ)
 - Dieses System ist einfach zu bedienen.
 
 ### User Experience Questionnaire
-- Bitte geben Sie ihre Einschätzung der E-Voting Lösung an
-
-behindernd ... unterstützend
-kompliziert ... einfach
-ineffizient ... effizient
-verwirrend ... übersichtlich
-langweilig ... spannend
-uninteressant ... interessant
-konventionell ... originell
-herkömmlich ... neuartig
+- Bitte geben Sie ihre Einschätzung der E-Voting App an
+Perspicuity         unverständlich...verständlich
+Perspicuity         leicht zu lernen...schwer zu lernen
+Perspicuity         kompliziert...einfach
+Perspicuity         übersichtlich...verwirrend
+Stimulation         langweilig...spannend
+Efficiency          schnell...langsam
+Efficiency          ineffizient...effizient
+Efficiency          aufgeräumt...überladen
+Dependability       behindernd...unterstützend
+Attractiveness      gut...schlecht
+Attractiveness      attraktiv...unattraktiv
+Novelty             konservativ...innovativ

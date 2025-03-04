@@ -24,7 +24,7 @@ https://doi.org/10.1016/j.electstud.2017.03.001
 - Possible gains in terms of electoral administration (S.25)
 
 ## Zitate
-- "We conclude with a call for more research on i-voting implications for turnout" (S.26)
+- "We conclude with a call for more research on e-voting implications for turnout" (S.26)
 
 ## Eigene Kommentare
 - Meine Studie würde beim ersten Problem versuchen anzusetzen. Anstatt nur theoretisch zu fragen, ob E-Voting cool ist und genutzt werden würde, hätte der Befragte ein reales Interface (Mock-Up) und könnte quasi direkt einen Livetest durchführen. Somit hätteder Befragte zumindest schon ein mal "online" gevotet bevor er seine Absicht beurkunden würde.

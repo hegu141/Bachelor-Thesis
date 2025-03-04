@@ -21,7 +21,7 @@ https://www.tab-beim-bundestag.de/projekte_e-voting-alternative-wahlformen-und-i
 - Wahlgleichheit (S.19)
 - Wahlgeheimnis (S.21)
 - Öffentlichkeit (S.23)
-- E-Voting änder nicht an der Politikverdrossenheit (S.38)
+- E-Voting ändert nicht an der Politikverdrossenheit (S.38)
 - Ablauf eines E-Voting Prozesses (S.44) !!Wichtig für MockUp!!
 - Wahlbeteiligung nuggets (S.46)
 
