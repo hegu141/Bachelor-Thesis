@@ -54,3 +54,22 @@ planned behaviour (theory of planned behaviour)
 - Ich beabsichtige, E-Voting zu nutzen, sobald es verfügbar ist.
 - Bei der nächsten Wahl würde ich E-Voting bevorzugen, wenn es eine Option wäre.
 - Ich würde E-Voting weiterempfehlen.
+
+Würden Sie bei den nächsten Parlamentswahlen im Jahr 2028 teilnehmen wenn E-Voting eine Option wäre?
+Wie werden Sie voraussichtlich bei den nächsten Parlamentswahlen im Jahr 2028 teilnehmen?
+☐ Ja
+☐ Nein
+☐ Ich bin nicht wahlberechtigt
+
+Quelle: GLES https://www.gesis.org/fileadmin/upload/GLES/Dokumente/ZA10100_fb_v0-1.pdf
+Angepasst auf zukünftige Wahlen
+
+Würden Sie in den nächsten vier Jahren an kantonalen oder kommunalen Wahlen teilnehmen wenn E-Voting eine Option wäre?
+☐ Ja, bei jeder Wahl
+☐ Ja, bei den meisten Wahlen
+☐ Ja, aber nur gelegentlich
+☐ Nein, nie
+☐ Ich bin nicht wahlberechtigt
+
+Quelle: GLES https://www.gesis.org/fileadmin/upload/GLES/Dokumente/ZA10100_fb_v0-1.pdf
+Selbst erstellt

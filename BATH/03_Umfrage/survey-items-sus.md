@@ -26,7 +26,7 @@ user experience questionnaire (UEQ)
 - Dieses System ist einfach zu bedienen.
 
 ### User Experience Questionnaire
-- Bitte geben Sie ihre Einschätzung der E-Voting App an
+- Bitte geben Sie ihre Einschätzung der SwissVote App an
 Perspicuity         unverständlich...verständlich
 Perspicuity         leicht zu lernen...schwer zu lernen
 Perspicuity         kompliziert...einfach

@@ -32,9 +32,6 @@
     - Manipulation/Sicherheit (00, 01, 04, 07, 51, 24), Banalisierung (01), Politische Gegner (07)
 - Bevölkerung wünscht sich ein E-Voting (04, 01, 08, 10)
 - Aussagen zur Wahlbeteiligung eher schwierig (04)
-- Probleme bisheriger Studien (07) (51)
-- Zu wenig Mehrwert um Beteiligung zu erhöhen (07)
-    Zu wenig Anerkennung fürs Wählen (17)
 - Zielgruppe von E-Voting / DigitalNatives (08, 12)
 - bisherige Erkenntnisse zu den Hoffnungen/Ängsten
     Schweiz / andere Länder / Estland (12, 24, 03)
@@ -47,6 +44,12 @@
         universelle Verifizierbarkeit (00)
         Allgemein, Gleich, Geheim, Unmittelbar, Frei, Verfolgbar (00, 24)
 - Chatbot (05)
+- Forschungslücke
+    Viele Probleme könnten technisch gelöst werden (Beispiel Zug), daher wird das abgegrenzt (24)
+    E-ID könnte wichtige Lücke schliessen. Pilotprojekte (Freiburg/Zug) hatten bereits E-Government Portal
+    Zu wenig Mehrwert um Beteiligung zu erhöhen (07)
+    Probleme bisheriger Studien (07) (51)
+        Zu wenig Anerkennung fürs Wählen (17)
 
 ###  Relevante Modelle und Theorien (Vorstellung und Beschreibung theoretischer Konzepte)
 - User Centric Design / User Experience (14, 16, 18, 21)
