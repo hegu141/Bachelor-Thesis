@@ -32,6 +32,8 @@ Wo würden Sie sich auf einer politischen Skala von 1 (links) bis 10 (rechts) ei
 5️⃣ Mitte
 🔟 Rechts (konservativ, nationalistisch)
 
+Wo würden Sie sich auf einer politischen Skala
+
 Quelle: ESS7 Main Questionnaire
 https://www.europeansocialsurvey.org/sites/default/files/2023-06/ESS9_source_questionnaires.pdf
 

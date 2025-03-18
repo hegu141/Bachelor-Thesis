@@ -1,4 +1,4 @@
-#  Consumer Acceptance and Use of Information Technology: Extending the Unified Theory of Acceptance and Use of Technology1
+#  Consumer Acceptance and Use of Information Technology: Extending the Unified Theory of Acceptance and Use of Technology
 
 ### Citation:
 Venkatesh, V., Thong, J. Y. L., & Xu, X. (2012). Consumer Acceptance and use of Information technology: Extending the unified Theory of Acceptance and Use of technology1. MIS Quarterly, 157–178. https://doi.org/10.2307/41410412

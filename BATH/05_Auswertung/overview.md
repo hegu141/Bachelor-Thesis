@@ -3,25 +3,20 @@
 ## Forschungsdesign
 
 ### Titel: Evaluierung von nutzerzentrierten Prototypen einer E-Voting App
-alt: Titel Zusammenhang zwischen E-Voting und Wahlverhalten
 
 ### F: Wie beeinflusst die Einführung einer (nutzerzentrierten) E-Voting App das Wahlverhalten?
-alt: Wie beeinflusst die Einführung von E-Voting das Wahlverhalten?
 
 ### H1: Die Einführung einer nutzerzentrierten E-Voting App führt zu einer höheren Wahlbeteiligung.
 ### H1: Der E-Voting App Prototyp erhöht die beabsichtigte Wahlbeteiligung.
-alt: Die Einführung eines digitalisierten Wahlprozesses führt zu einer höheren Wahlbeteiligung
 - Behavioral Intention (UTAUT2)
 
 ### H2A: Der E-Voting App Prototyp wird als nützlich wahrgenommen.
 ### H2B: Der E-Voting App Prototyp wird als benutzerfreundlich wahrgenommen.
-alt: Die Einführung von E-Voting steigert die Qualität der Wahl
 - Perceived Usefulness (TAM)
 - Perceived Ease of Use (TAM)
 - Vergleich der Varianten (A/B)
 
 ### H3: Die Integration eines KI-basierten Chatbots erhöht die Akzeptanz des E-Voting App Prototypen.
-alt: Die Integration eines KI-basierten Chatbots würde die Akzeptanz eines E-Voting-Systems erhöhen.
 - UTAUT Umfrageelemente
 
 ## Abhängige Variabeln

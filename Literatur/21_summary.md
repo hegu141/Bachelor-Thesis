@@ -20,8 +20,7 @@ Attractiveness (S.21)
 
 
 ## Zitate
-- "the factor analysis support the assumption that ‚soft’ (user experi
-ence) criteria and ‘hard’ (usability) criteria are of similar relevance for the end user (two scales and three scales, respectively). This fact is not reflected adequately by the structure of other user feedback questionnaires." (S.11)
+- "the factor analysis support the assumption that ‚soft’ (user experience) criteria and ‘hard’ (usability) criteria are of similar relevance for the end user (two scales and three scales, respectively). This fact is not reflected adequately by the structure of other user feedback questionnaires." (S.11)
 
 ## Eigene Kommentare
 - Ich denke...

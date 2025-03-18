@@ -12,23 +12,30 @@
     GenZ und Politik
 - Zielsetzung (Erwartete Ergebnisse)
 - Abgrenzung / Kontext
+- Forschungslücke (Einleitung?)
+    (00er S.11)
+    Viele Probleme könnten technisch gelöst werden (Beispiel Zug), daher wird das abgegrenzt (24)
+    E-ID könnte wichtige Lücke schliessen. Pilotprojekte (Freiburg/Zug) hatten bereits E-Government Portal
+    Zu wenig Mehrwert um Beteiligung zu erhöhen (07)
+    Zu wenig vertrauen um Beteiligung zu erhöhen
+    Probleme bisheriger Studien (07) (51)
+        Zu wenig Anerkennung fürs Wählen (17)
 
 ## Theoretische Grundlagen
 
 ### Begriffsdefinition (zentrale Fachbegriffe erläutern und definieren)
 - E-Voting (02)
-- Wahlen + Abstimmungen
-- Meinungsbildung
+- Wahlen + Abstimmungen (00)
+- Meinungsbildung (00)
 - E-Collecting (Digitale Direkte Demokratie 3 Stufen E-Democracy)
 - User Experience (14, 16, 18)
 - User Satisfaction (11)
 - User Centric Design (14)
 - Mockups/Prototypen
-- E-ID
 
 ### Stand der Forschung (Überblick über bestehende Literatur und Forschungsergebnisse)
 - Hoffnungen/Ängst E-Voting
-    + erhöhte Wahlbeteiligung (02, 03, 07, 50), Inklusion (00, 01, 07), Nachvollziehbarkeit (00, 51), Komplexere Wahlen möglich (00), Effizienz (07) (24)
+    + erhöhte Wahlbeteiligung (02, 03, 07, 50), Inklusion (00, 01, 07), Nachvollziehbarkeit (00, 51), Komplexere Wahlen möglich (00), Effizienz (02) (07) (24)
     - Manipulation/Sicherheit (00, 01, 04, 07, 51, 24), Banalisierung (01), Politische Gegner (07)
 - Bevölkerung wünscht sich ein E-Voting (04, 01, 08, 10)
 - Aussagen zur Wahlbeteiligung eher schwierig (04)
@@ -42,14 +49,8 @@
     Welche rechtlichen Aspekte sind wichtig (Gesetztestexte!)
         fehlende individuelle Verifizierbarkeit? (00)
         universelle Verifizierbarkeit (00)
-        Allgemein, Gleich, Geheim, Unmittelbar, Frei, Verfolgbar (00, 24)
+        Allgemein, Gleich, Geheim, Unmittelbar, Frei, Verfolgbar (00, 24, 02)
 - Chatbot (05)
-- Forschungslücke
-    Viele Probleme könnten technisch gelöst werden (Beispiel Zug), daher wird das abgegrenzt (24)
-    E-ID könnte wichtige Lücke schliessen. Pilotprojekte (Freiburg/Zug) hatten bereits E-Government Portal
-    Zu wenig Mehrwert um Beteiligung zu erhöhen (07)
-    Probleme bisheriger Studien (07) (51)
-        Zu wenig Anerkennung fürs Wählen (17)
 
 ###  Relevante Modelle und Theorien (Vorstellung und Beschreibung theoretischer Konzepte)
 - User Centric Design / User Experience (14, 16, 18, 21)

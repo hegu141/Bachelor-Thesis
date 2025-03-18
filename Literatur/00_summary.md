@@ -45,4 +45,8 @@ https://www.avenir-suisse.ch/publication/digitale-direkte-demokratie/
 - "Müssig scheint daher die Frage, ob man die Digitalisierung im politischen Prozessen will oder nicht. Sie lässt sich nicht aufhalen, sondern nur gestalten"
 - "Wer nicht mit der Zeit geht, geht mit der Zeit"
 
+- Ein großer Vorteil von E-Voting ist die Verifizierbarkeit:
+Individuelle Verifizierbarkeit: Der Wähler kann überprüfen, ob seine Stimme korrekt erfasst wurde.
+Universelle Verifizierbarkeit: Sicherstellung, dass das Wahlergebnis den abgegebenen Stimmen entspricht, ohne das Stimmgeheimnis zu verletzen.
+
 ## Eigene Kommentare
