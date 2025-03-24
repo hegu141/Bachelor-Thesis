@@ -1,22 +1,30 @@
 # Schritte zur Auswertung
 
 ## Forschungsdesign
+- Evaluierung von Prototypen
+- Einfluss Verfügbarkeit eines E-Voting-Systems
 
 ### Titel: Evaluierung von nutzerzentrierten Prototypen einer E-Voting App
 
-### F: Wie beeinflusst die Einführung einer (nutzerzentrierten) E-Voting App das Wahlverhalten?
+### F: Wie beeinflusst die Verfügbarkeit einer (nutzerzentrierten) E-Voting App das Wahlverhalten?
+Wie beeinflussen verschiedene nutzerzentrierte E-Voting App Varianten das Wahlverhalten?
 
-### H1: Die Einführung einer nutzerzentrierten E-Voting App führt zu einer höheren Wahlbeteiligung.
+### H1: Die Verfügbarkeit einer nutzerzentrierten E-Voting App führt zu einer höheren Wahlbeteiligung.
 ### H1: Der E-Voting App Prototyp erhöht die beabsichtigte Wahlbeteiligung.
 - Behavioral Intention (UTAUT2)
+- Nicht Wähler würden wählen wenn E-Voting App verfügbar ist?
 
-### H2A: Der E-Voting App Prototyp wird als nützlich wahrgenommen.
-### H2B: Der E-Voting App Prototyp wird als benutzerfreundlich wahrgenommen.
+### H2: Die Verfügbarkeit einer nutzerzentrierten E-Voting App subsituiert die bestehenden Wahlkanäle
+- Behavioral Intention (UTAUT2)
+- Wähler würden E-Voting App Kanal nutzen
+
+### H3A: Der E-Voting App Prototyp wird als nützlich wahrgenommen.
+### H3B: Der E-Voting App Prototyp wird als benutzerfreundlich wahrgenommen.
 - Perceived Usefulness (TAM)
 - Perceived Ease of Use (TAM)
 - Vergleich der Varianten (A/B)
 
-### H3: Die Integration eines KI-basierten Chatbots erhöht die Akzeptanz des E-Voting App Prototypen.
+### H4: Die Integration eines KI-basierten Chatbots erhöht die Akzeptanz des E-Voting App Prototypen.
 - UTAUT Umfrageelemente
 
 ## Abhängige Variabeln
