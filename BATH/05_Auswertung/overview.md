@@ -5,11 +5,12 @@
 - Einfluss Verfügbarkeit eines E-Voting-Systems
 
 ### Titel: Evaluierung von nutzerzentrierten Prototypen einer E-Voting App
+Evaluierung eines Prototyps für eine nutzerzentrierte E-Voting App
 
 ### F: Wie beeinflusst die Verfügbarkeit einer (nutzerzentrierten) E-Voting App das Wahlverhalten?
 Wie beeinflussen verschiedene nutzerzentrierte E-Voting App Varianten das Wahlverhalten?
 
-### H1: Die Verfügbarkeit einer nutzerzentrierten E-Voting App führt zu einer höheren Wahlbeteiligung.
+### H1: Die Verfügbarkeit einer nutzerzentrierten E-Voting App führt zu einer höheren beabsichtigten Wahlbeteiligung.
 ### H1: Der E-Voting App Prototyp erhöht die beabsichtigte Wahlbeteiligung.
 - Behavioral Intention (UTAUT2)
 - Nicht Wähler würden wählen wenn E-Voting App verfügbar ist?
@@ -18,13 +19,13 @@ Wie beeinflussen verschiedene nutzerzentrierte E-Voting App Varianten das Wahlve
 - Behavioral Intention (UTAUT2)
 - Wähler würden E-Voting App Kanal nutzen
 
-### H3A: Der E-Voting App Prototyp wird als nützlich wahrgenommen.
-### H3B: Der E-Voting App Prototyp wird als benutzerfreundlich wahrgenommen.
+### H3: Die E-Voting App wird als nützlich wahrgenommen.
+### H4: Die E-Voting App wird als benutzerfreundlich wahrgenommen.
 - Perceived Usefulness (TAM)
 - Perceived Ease of Use (TAM)
 - Vergleich der Varianten (A/B)
 
-### H4: Die Integration eines KI-basierten Chatbots erhöht die Akzeptanz des E-Voting App Prototypen.
+### H5: Die Integration eines KI-basierten Chatbots erhöht die Akzeptanz der E-Voting App.
 - UTAUT Umfrageelemente
 
 ## Abhängige Variabeln

@@ -63,6 +63,12 @@
     VoteInfo
 
 ## Methodik
-- Fragebogen (standartisierte Fragen)
-- A/B Testing
-- Mockups/Prototypen
+- Forschungsdesign (Angaben zu der Art und Weise der Untersuchung -> quantitativ)
+Literaturrecherche
+Fragebogen (standartisierte Fragen)
+A/B Testing
+Mockups/Prototypen
+
+
+- Datenerhebungsmethoden (Beschreibung der Datenerhebung -> Umfrage)
+- Datenauswertung (Angaben zu der Auswertung)

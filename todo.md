@@ -1,18 +1,21 @@
 # TODOS
 
-## Survey Deadline
-> 27.03 Umfrage versandbereit
-> 20.03 Umfrage an Jan Fivaz
-
 ## Beispielstudie studieren
 - https://www.sciencedirect.com/science/article/pii/S0740624X2300103X
 
-## Fragen
-- wie soll ich die Erstellung, Auswahl und Adaption von erprobten Umfrageelemten dokumentieren/beschreiben?
 
 ## Thema KI wird noch gar nicht erwähnt? Einleitung? Theorie?
 - Bisher noch gar nicht diskutiert in der Literatur?
 - Vor und Nachteile
+
+## Was kann die E-Voting App > Einführung?
+
+## Appendix
+- Mockups
+- Umfrage
+- Auswertungen
+- Daten
+- Git Historie
 
 ## Workshop Slides bewerten
 - quantitative methods workshop
@@ -20,12 +23,11 @@
 
 # TODOS Survey
 - Umfrage öffnen 27.03
-    Friends&Family
-    BFH Emails
-    Smartvote Newsletter
+    Friends&Family > (ca. 40 responses)
+    BFH Emails > DONE (ca. 10 responses)
+    Smartvote Newsletter (31.03)
     Say a friend be a friend
     Social Media (Reddit+Insta)
-- Umfrage Link inkl. Text an Jan
 
 ## Einschränkungen
 - Survey Items wurden angepasst
@@ -35,29 +37,8 @@
     Sample wurde direkt angesprochen und ist nicht repräsentativ
 
 
-24.03.25
-MO :: Theoretical Foundation fertigstellen
-MO :: Tinu schriebe Sanitas
-MO :: Jasmin
-
-DI :: Arbeit
-DI :: Schule
-DI :: BATH > TF nochmals durchlesen
-DI :: Umfrage öffnen + Jan schicken
-
-MI :: Arbeit
-MI :: Yoga
-
-DO :: Arbeit
-DO :: BATH Workshop
-
-FR :: Arbeit
-FR :: Osterferien planen
-
-SA :: Spass
-SA :: BATH Workshop Folien (Quantitative Methods)
-
-SO :: BATH Kapitel Methodik
-
-31.03.25
-MO :: BATH Kapitel Methodik
+## Weitere Forschungsmöglichkeiten
+- A/B Test Web und App
+- Ähnliches für Abstimmungen
+- verschiedene UTAUT Dimensionen nachprüfen
+- Welche Funktionalitäten waren wirklich wichtig?
