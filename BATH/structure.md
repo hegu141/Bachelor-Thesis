@@ -2,16 +2,10 @@
 
 ## Einleitung
 - Hintergrund und Motivation (Einführung in das Thema, Relevanz und Kontext)
-- Historie von E-Voting
-    - Einführung Postal Election
-    - Schaffung rechtlicher Grundlagen
-    - Testversuche 2004-2025
-- Problemstellung / Forschungsfrage	
+- Problemstellung	
     Probleme in DE mit brieflicher Wahl (Snap Election)
     Sinkende Wahlbeteiligung
     GenZ und Politik
-- Zielsetzung (Erwartete Ergebnisse)
-- Abgrenzung / Kontext
 - Forschungslücke (Einleitung?)
     (00er S.11)
     Viele Probleme könnten technisch gelöst werden (Beispiel Zug), daher wird das abgegrenzt (24)
@@ -20,6 +14,10 @@
     Zu wenig vertrauen um Beteiligung zu erhöhen
     Probleme bisheriger Studien (07) (51)
         Zu wenig Anerkennung fürs Wählen (17)
+    Forschungsfrage
+- Zielsetzung (Erwartete Ergebnisse)
+- Abgrenzung / Kontext
+- Aufbau der Arbeit (Kapitelüberblick)
 
 ## Theoretische Grundlagen
 
